@@ -21,6 +21,8 @@
 
 ## Favorite Quote 
 >***“You miss 100% of the shots you don’t take – Wayne Gretzky" – Michael Scott***
+<br>
+
 ## Favorite Video Games
   - Rainbow Six: Siege
   - Escape From Tarkov
