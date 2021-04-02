@@ -12,16 +12,11 @@
 <br>
 
 ## All Sections
-  - [Favorite Quote](#favorite-quote)
   - [Favorite Video Games](#favorite-video-games)
   - [Favorite Sorting Algorithm](#favorite-sorting-algorithm:-`Bogosort()`)
   - [Life Goals](#life-goals)
   - [A good GIF](#a-good-gif)
-
-
-## Favorite Quote 
->***“You miss 100% of the shots you don’t take – Wayne Gretzky" – Michael Scott***
-<br>
+  - [Favorite Quote](#favorite-quote)
 
 ## Favorite Video Games
   - Rainbow Six: Siege
@@ -47,5 +42,10 @@ void bogosort(int a[], int n)
 
 ## A good GIF
 [Cat Jam GIF](Images/tenor.gif)
+
+## Favorite Quote 
+>***“You miss 100% of the shots you don’t take – Wayne Gretzky" – Michael Scott***
+
+
 
 
