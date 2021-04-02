@@ -13,7 +13,7 @@
 
 ## All Sections
   - [Favorite Video Games](#favorite-video-games)
-  - [Favorite Sorting Algorithm](#favorite-sorting-algorithm:-`Bogosort()`)
+  - [Favorite Sorting Algorithm: `Bogosort()`](#favorite-sorting-algorithm:-`Bogosort()`)
   - [Life Goals](#life-goals)
   - [A good GIF](#a-good-gif)
   - [Favorite Quote](#favorite-quote)
