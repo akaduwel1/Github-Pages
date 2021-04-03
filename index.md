@@ -5,7 +5,8 @@
 
 <br>
 
-*Second Year Student at UCSD studying Computer Engineering and minoring in Physics*
+*I am a second year student at UCSD studying Computer Engineering and minoring in Physics. My hobbies include playing video games, working out, cooking, and recently, brewing homemade kombucha.*
+
 
 <br>
 
@@ -36,7 +37,7 @@ void bogosort(int a[], int n)
 
 ## Goals
 - [X] Complete this Lab
-- [X] Make Dinner
+- [ ] Graduate
 - [ ] Buy a [Tesla](https://www.tesla.com/)
 
 ## A good GIF
