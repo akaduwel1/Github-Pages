@@ -5,7 +5,7 @@
 
 <br>
 
-*I am a second year student at UCSD studying Computer Engineering and minoring in Physics. My hobbies include playing video games, working out, cooking, and recently, brewing homemade kombucha.*
+*I am a second year student at UCSD studying Computer Engineering and minoring in Physics. My hobbies include playing video games, working out, watching anime, cooking, and recently, brewing homemade kombucha.*
 
 
 <br>
