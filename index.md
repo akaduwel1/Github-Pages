@@ -1,7 +1,9 @@
 ![Amal](Images/Amal_picture.png)
+<br>
   
-  # Amal Kaduwela 
-  *Second Year Student at UCSD studying Computer Engineering and minoring in Physics*
+# Amal Kaduwela 
+
+*Second Year Student at UCSD studying Computer Engineering and minoring in Physics*
 
 <br>
 
