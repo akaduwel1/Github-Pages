@@ -1,21 +1,16 @@
-<table>
-  <tr>
-    <td><img src="Images/Amal_picture.png" alt="Picture of Amal"></td>
+![Amal](Images/Amal_picture.png)
   
-  <td>
-    <h1> Amal Kaduwela </h1>
-    <em>Second Year Student at UCSD studying Computer Engineering</em>
-  </td>
-  </tr>
-</table>
+  # Amal Kaduwela 
+  *Second Year Student at UCSD studying Computer Engineering and minoring in Physics*
 
 <br>
 
 ## All Sections
   - [Favorite Video Games](#favorite-video-games)
   - [Favorite Sorting Algorithm: `Bogosort()`](#favorite-sorting-algorithm:-`Bogosort()`)
-  - [Life Goals](#life-goals)
+  - [Goals](#goals)
   - [A good GIF](#a-good-gif)
+  - [Familiarity with Coding Languages](#familiarity-with-coding-languages)
   - [Favorite Quote](#favorite-quote)
 
 ## Favorite Video Games
@@ -35,13 +30,20 @@ void bogosort(int a[], int n)
 }
 ```
 
-## Life Goals
-- [X] Go To College
+## Goals
 - [X] Complete this Lab
+- [X] Make Dinner
 - [ ] Buy a [Tesla](https://www.tesla.com/)
 
 ## A good GIF
-[Cat Jam GIF](Images/tenor.gif)
+[Cat Jam GIF link](gif.md)
+
+## Familiarity with Coding Languages 
+##### (In Order From Most Familiar to Least)
+  1. Java
+  2. Python
+  3. C/C++
+  4. HTML
 
 ## Favorite Quote 
 >***“You miss 100% of the shots you don’t take – Wayne Gretzky" – Michael Scott***
